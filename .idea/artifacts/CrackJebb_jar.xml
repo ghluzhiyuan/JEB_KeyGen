@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CrackJebb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CrackJebb_jar</output-path>
+    <root id="archive" name="CrackJebb.jar">
+      <element id="module-output" name="CrackJebb" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/javassist.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
